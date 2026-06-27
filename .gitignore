@@ -1,0 +1,15 @@
+.vscode/ 
+.idea/ 
+*.swp 
+*.swo 
+.vs/
+
+*.exe 
+*.out 
+*.o 
+*.obj 
+*.so 
+*.dll 
+*.dylib 
+*.a
+*.lib
